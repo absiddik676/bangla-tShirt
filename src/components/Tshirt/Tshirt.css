@@ -1,0 +1,16 @@
+.img{
+    height: 250px;
+    border-radius: 15px;
+}
+.t-shirt{
+    border: 1px solid salmon;
+    border-radius: 15px;
+    padding: 10px;
+}
+.buy-btn{
+    background-color: rgb(218, 88, 114);
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
